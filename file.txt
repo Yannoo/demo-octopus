@@ -1,0 +1,2 @@
+C'est un fichier texte, avec du texte dedans.
+Fichier pour écrire du texte
